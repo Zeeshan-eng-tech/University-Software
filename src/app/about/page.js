@@ -5,7 +5,7 @@ export default function About(){
       <header className="bg-primary text-white py-5">
         <div className="container text-center">
           <h1>About Us</h1>
-          <p className="lead">Learn more about our mission, values, and team.</p>
+          <p className="lead">Learn more about our mission in worldwide, values, and team.</p>
         </div>
       </header>
 
