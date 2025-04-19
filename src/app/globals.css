@@ -41,18 +41,3 @@ a {
   }
 }
 
-.animated-title {
-  font-size: 2rem;
-  font-weight: bold;
-  color: #4b0082;
-  animation: fadeInSlide 2s ease-out forwards;
-  opacity: 0;
-  transform: translateY(-20px);
-}
-
-@keyframes fadeInSlide {
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
